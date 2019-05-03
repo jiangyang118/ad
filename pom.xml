@@ -17,7 +17,7 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.0.4.RELEASE</version>
     </parent>
-
+    //test for git
     <properties>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
     </properties>
