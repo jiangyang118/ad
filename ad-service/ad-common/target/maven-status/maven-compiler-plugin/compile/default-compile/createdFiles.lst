@@ -1,0 +1,14 @@
+com\imooc\ad\dump\table\AdUnitDistrictTable.class
+com\imooc\ad\dump\table\AdUnitKeywordTable.class
+com\imooc\ad\dump\table\AdUnitTable.class
+com\imooc\ad\annotation\IgnoreResponseAdvice.class
+com\imooc\ad\exception\AdException.class
+com\imooc\ad\advice\GlobalExceptionAdvice.class
+com\imooc\ad\dump\table\AdPlanTable.class
+com\imooc\ad\dump\DConstant.class
+com\imooc\ad\dump\table\AdCreativeTable.class
+com\imooc\ad\advice\CommonResponseDataAdvice.class
+com\imooc\ad\dump\table\AdUnitItTable.class
+com\imooc\ad\vo\CommonResponse.class
+com\imooc\ad\dump\table\AdCreativeUnitTable.class
+com\imooc\ad\conf\WebConfiguration.class

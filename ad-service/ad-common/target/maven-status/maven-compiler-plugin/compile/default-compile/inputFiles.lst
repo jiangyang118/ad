@@ -1,0 +1,14 @@
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\vo\CommonResponse.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\table\AdCreativeUnitTable.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\advice\CommonResponseDataAdvice.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\DConstant.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\conf\WebConfiguration.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\table\AdUnitKeywordTable.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\table\AdUnitTable.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\table\AdPlanTable.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\advice\GlobalExceptionAdvice.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\annotation\IgnoreResponseAdvice.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\table\AdUnitDistrictTable.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\table\AdUnitItTable.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\dump\table\AdCreativeTable.java
+D:\code\java\ad\ad-service\ad-common\src\main\java\com\imooc\ad\exception\AdException.java

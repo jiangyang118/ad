@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ad-gateway
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: jiang
+Implementation-Vendor-Id: com.imooc.ad
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/imooc-ad/ad-gateway
+Created-By: Maven Integration for Eclipse
+
